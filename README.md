@@ -1,4 +1,4 @@
-# schedule-app-made-with-fast-api
+# schedule-app-made-with-fastapi
 Sample schedule app made with fast-api
 
 ```sh

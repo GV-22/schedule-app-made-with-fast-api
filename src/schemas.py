@@ -26,7 +26,7 @@ class Subject(SubjectBase):
 
 
 class TaskBase(BaseModel):
-    day: DayEnum  # mondeay | tuesday | wednesday | ... | sunday
+    day: DayEnum  # monday | tuesday | wednesday | ... | sunday
     description: Optional[str] = None
     start_time: str
     end_time: str
